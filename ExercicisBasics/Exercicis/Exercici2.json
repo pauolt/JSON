@@ -1,0 +1,21 @@
+{
+  "nom": "Paella Valenciana",
+  "tempsPreparació": "90 minuts",
+  "ingredients": [
+    { "nom": "Arròs", "quantitat": "300g" },
+    { "nom": "Pollastre", "quantitat": "200g" },
+    { "nom": "Conill", "quantitat": "200g" },
+    { "nom": "Tomàquet", "quantitat": "2 unitats" },
+    { "nom": "Safrà", "quantitat": "1 pessic" },
+    { "nom": "Brou de pollastre", "quantitat": "1 litre" }
+  ],
+  "passos": [
+    "Escalfar oli en una paella ampla.",
+    "Afegir el pollastre i el conill i daurar-los.",
+    "Afegir el tomàquet ratllat i sofregir.",
+    "Afegir el brou de pollastre i portar a ebullició.",
+    "Afegir l'arròs i distribuir uniformement.",
+    "Afegir el safrà i coure durant 20 minuts.",
+    "Deixar reposar 5 minuts abans de servir."
+  ]
+}

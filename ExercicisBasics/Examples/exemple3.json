@@ -1,0 +1,17 @@
+{
+  "data": "2024-03-06",
+  "articles": [
+    {
+      "nom": "Llet",
+      "quantitat": "1"
+    },
+    {
+    "nom": "Pa",
+    "quantitat": "2"
+    },
+    {
+      "nom": "Fruita",
+      "quantitat": "5"
+    }
+  ]
+}

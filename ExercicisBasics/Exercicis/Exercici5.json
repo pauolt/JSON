@@ -1,0 +1,17 @@
+{
+  "nomConferència": "Tech Summit 2025",
+  "ponent": {
+    "nom": "Maria Pérez",
+    "companyia": "Innovatech"
+  },
+  "assistents": [
+    { "nom": "Joan", "edat": 34 },
+    { "nom": "Laura", "edat": 29 },
+    { "nom": "Carlos", "edat": 41 }
+  ],
+  "temesDiscutits": [
+    "El futur del desenvolupament web",
+    "Tendències en IA",
+    "Ciberseguretat en empreses"
+  ]
+}

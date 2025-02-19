@@ -1,0 +1,9 @@
+{
+  "destí": "Barcelona",
+  "durada": "3",
+  "activitats": [
+    {"nom": "Visita al Parc Güell", "durada": 3},
+    {"nom": "Caminata per la Rambla", "durada": 2},
+    {"nom": "Excursió a la Sagrada Familia", "durada": 4}
+  ]
+}

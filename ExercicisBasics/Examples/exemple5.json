@@ -1,0 +1,21 @@
+{
+  "nom": "TechCorp",
+  "empleats": [
+    {
+      "nom": "Anna",
+      "edat": 30
+    },
+    {
+      "nom": "Pau",
+      "edat": 28
+    },
+    {
+      "nom": "Marc",
+      "edat": 35
+    }
+  ],
+  "projectes": [
+    "Desenvolupament App Mòbil",
+    "Implementació de Xarxa"
+  ]
+}

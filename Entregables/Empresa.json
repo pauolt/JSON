@@ -1,0 +1,82 @@
+{
+  "empleados": [
+    {
+      "nomApellidos": "Kiko Rivera",
+      "fechaNacimiento": "1994-06-25",
+      "codigo": "E21",
+      "Departamento": "Desarrollo",
+      "proyectos": [
+        {
+          "codigoProyecto": "P01",
+          "papel": "Desarrollador Backend"
+        },
+        {
+          "codigoProyecto": "P02",
+          "papel": "Analista de Datos"
+        }
+      ]
+    },
+    {
+      "nomApellidos": "Pablo Motos",
+      "fechaNacimiento": "1989-02-17",
+      "codigo": "E07",
+      "Departamento": "Marketing",
+      "proyectos": [
+        {
+          "codigoProyecto": "P03",
+          "papel": "Coordinador de campaña"
+        }
+      ]
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "Plataforma E-commerce",
+      "codigo": "P01",
+      "fechaInicio": "2025-01-10",
+      "fechaFinPrevista": "2025-12-31",
+      "empleadosAsignados": [
+        {
+          "codigoEmpleado": "E21",
+          "papel": "Desarrollador Backend"
+        }
+      ]
+    },
+    {
+      "nombre": "Encuesta Clientes",
+      "codigo": "P02",
+      "fechaInicio": "2025-02-10",
+      "fechaFinPrevista": "2025-04-20",
+      "empleadosAsignados": [
+        {
+          "codigoEmpleado": "E21",
+          "papel": "Analista de Datos"
+        }
+      ]
+    },
+    {
+      "nombre": "Campaña publicitaria",
+      "codigo": "P03",
+      "fechaInicio": "2024-11-15",
+      "fechaFinPrevista": "2025-06-30",
+      "empleadosAsignados": [
+        {
+          "codigoEmpleado": "E07",
+          "papel": "Coordinador de campaña"
+        }
+      ]
+    }
+  ],
+  "departamentos": [
+    {
+      "nombre": "Desarrollo",
+      "codigo": "D01",
+      "descripción": "Departamento encargado de la creación y mantenimiento de programas."
+    },
+    {
+      "nombre": "Marketing",
+      "codigo": "D02",
+      "descripción": "Departamento responsable de la promoción y estratègias de mercado."
+    }
+  ]
+}

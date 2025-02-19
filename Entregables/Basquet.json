@@ -1,0 +1,30 @@
+{
+  "nomEquip": "Chicago Bulls",
+  "color" : "rojo",
+  "estadio": "United Center",
+  "entrenador": "Billy Donovan",
+  "plantillaHistorica": true,
+  "web": "https://shop.bulls.com/",
+  "jugadores": [
+    {
+      "nom": "Lonzo Ball",
+      "dorsal": 2,
+      "posicion": "Base"
+    },
+    {
+      "nom": "Matas Buzelis",
+      "dorsal": 14,
+      "posicion": "Ala-Pivot"
+    },
+    {
+      "nom": "Jalen Smith",
+      "dorsal": 7,
+      "posicion": "Pivot"
+    },
+    {
+      "nom": "Dalen Terry",
+      "dorsal": 25,
+      "posicion": "Alero"
+    }
+  ]
+}

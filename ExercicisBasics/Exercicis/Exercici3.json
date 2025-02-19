@@ -1,0 +1,10 @@
+{
+  "númeroComanda": "123456",
+  "data": "2025-02-19",
+  "productes": [
+    { "nom": "Portàtil Lenovo", "preu": 899.99 },
+    { "nom": "Ratolí sense fils", "preu": 29.99 },
+    { "nom": "Auriculars Bluetooth", "preu": 59.99 }
+  ],
+  "totalPagament": 989.97
+}

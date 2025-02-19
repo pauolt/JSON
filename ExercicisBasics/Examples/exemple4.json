@@ -1,0 +1,6 @@
+{
+  "nom": "Laura",
+  "edat": 22,
+  "estudia": true,
+  "aficions": ["lectura", 5, "esport"]
+}

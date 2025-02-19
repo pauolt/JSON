@@ -1,0 +1,11 @@
+{
+  "nomComunitat": "DevCom",
+  "nombreUsuaris": 15000,
+  "actiu": true,
+  "temesDestacats": [
+    "Desenvolupament Web",
+    "Intel·ligència Artificial",
+    42,
+    false
+  ]
+}
