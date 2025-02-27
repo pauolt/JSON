@@ -1,0 +1,70 @@
+{
+  "estants": [
+    {
+      "electronics": [
+        {
+          "id": 1,
+          "name": "Smartphone",
+          "price": 500,
+          "material": "Plastic",
+          "category": "Electronics"
+        },
+        {
+          "id": 2,
+          "name": "Laptop",
+          "price": 1200,
+          "material": "Metal",
+          "category": "Electronics"
+        }
+      ],
+      "books": [
+        {
+          "id": 3,
+          "name": "Novel",
+          "price": 20,
+          "material": "Paper",
+          "category": "Books"
+        },
+        {
+          "id": 4,
+          "name": "Science Book",
+          "price": 25,
+          "material": "Paper",
+          "category": "Books"
+        }
+      ],
+      "clothing": [
+        {
+          "id": 5,
+          "name": "T-shirt",
+          "price": 15,
+          "material": "Cotton",
+          "category": "Clothing"
+        },
+        {
+          "id": 6,
+          "name": "Jeans",
+          "price": 30,
+          "material": "Denim",
+          "category": "Clothing"
+        }
+      ],
+      "toys": [
+        {
+          "id": 7,
+          "name": "Doll",
+          "price": 10,
+          "material": "Plastic",
+          "category": "Toys"
+        },
+        {
+          "id": 8,
+          "name": "Building Set",
+          "price": 25,
+          "material": "Plastic",
+          "category": "Toys"
+        }
+      ]
+    }
+  ]
+}

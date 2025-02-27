@@ -1,0 +1,105 @@
+{
+  "xarxa_biblioteques": {
+    "nom": "Biblioteques Digitals Comunitat Valenciana ",
+    "ubicacions": [
+      {
+        "nom": "Biblioteca Central Castelló",
+        "adreça": "Carrer Exemple, 123, Castelló",
+        "horari_atencio": {
+          "dilluns-divendres": "9:00-17:30",
+          "dissabte": "9:00-13:00",
+          "diumenge": "tancat"
+        }
+      },
+      {
+        "nom": "Biblioteca de Valencia",
+        "adreça": "Carrer Exemple, 456, Valencia",
+        "horari_atencio": {
+          "dilluns-divendres": "9:30-18:30",
+          "dissabte": "10:00-15:00",
+          "diumenge": "tancat"
+        }
+      }
+    ]
+  },
+  "biblioteques": [
+    {
+      "nom": "Biblioteca Central Castelló",
+      "adreça": "Carrer Exemple, 123, Castelló",
+      "llibres_disponibles": [
+        {
+          "ISBN": "9781368023238",
+          "titol": "Mentes Poderosas",
+          "autor": "Alexandra Bracken",
+          "any_publicacio": "2015",
+          "genere": "Ficcion Distopica",
+          "formats_digitals": ["epub", "pdf", "audiobook"],
+          "exemplars_fisics": 10
+        }
+      ],
+      "sistemes_arxiu_digital": {
+        "formats_digitals": ["epub", "pdf", "audiobook"],
+        "capacitat_emmagazetmatge_gb": 500
+      }
+    },
+    {
+      "nom": "Biblioteca de Valencia",
+      "adreça": "Carrer Exemple, 456, Valencia",
+      "llibres_disponibles": [
+        {
+          "ISBN": "9780375826740",
+          "titol": "Brising",
+          "autor": "Christopher Paolini",
+          "any_publicacio": "2008",
+          "genere": "Fantasía Épica",
+          "formats_digitals": ["epub", "pdf", "audiobook"],
+          "exemplars_fisics": 15
+        }
+      ],
+      "sistemes_arxiu_digital": {
+        "formats_digitals": ["epub", "pdf", "audiobook"],
+        "capacitat_emmagazetmatge_gb": 800
+      }
+    }
+  ],
+  "usuaris": [
+    {
+      "id": 1,
+      "nom": "Juan Torres",
+      "email": "juantor@gmail.com",
+      "prestecs_actual": [
+        {
+          "ISBN": "9780375826740",
+          "data_inici": "2025-01-14",
+          "data_venciment": "2025-05-20",
+          "estat": "actiu"
+        },
+        {
+          "ISBN": "9781368023238",
+          "data_inici": "2024-02-05",
+          "data_venciment": "2024-06-15",
+          "estat": "retornat"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Paco García",
+      "email": "garpac@gmail.com",
+      "prestecs_actual": [
+        {
+          "ISBN": "9781368023238",
+          "data_inici": "2024-09-14",
+          "data_venciment": "2025-02-24",
+          "estat": "retrasat"
+        },
+        {
+          "ISBN": "9780375826740",
+          "data_inici": "2024-04-02",
+          "data_venciment": "2024-09-17",
+          "estat": "retornat"
+        }
+      ]
+    }
+  ]
+}
