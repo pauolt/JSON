@@ -39,7 +39,7 @@
       ],
       "sistemes_arxiu_digital": {
         "formats_digitals": ["epub", "pdf", "audiobook"],
-        "capacitat_emmagazetmatge_gb": 500
+        "capacitat_emmagatzematge_gb": 500
       }
     },
     {
@@ -58,7 +58,7 @@
       ],
       "sistemes_arxiu_digital": {
         "formats_digitals": ["epub", "pdf", "audiobook"],
-        "capacitat_emmagazetmatge_gb": 800
+        "capacitat_emmagatzematge_gb": 800
       }
     }
   ],
