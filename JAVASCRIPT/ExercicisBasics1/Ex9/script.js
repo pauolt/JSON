@@ -1,0 +1,1 @@
+document.write("Este és un nou missatge")

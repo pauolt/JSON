@@ -1,0 +1,1 @@
+console.log("Aço  és un missatge de prova");
