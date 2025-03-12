@@ -15,7 +15,12 @@ function calculadora(){
     }
 
     function dividir() {
-        alert("El resultat es: " + num1 / num2);
+        if  (num1 === 0 || num2 === 0) {
+            alert("No es pot dividir per 0");
+        }else {
+            alert("El resultat es: " + num1 / num2);
+        }
+
     }
     while (true){
         let opcio = prompt("Que operació vols fer?\n+\n-\n*\n/")
