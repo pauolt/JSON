@@ -1,7 +1,37 @@
 $(document).ready(function () {
-    $("#paragraf").hide(2000);
-    $("#paragraf").show(2000);
-    $("#paragraf").fadeIn(2000);
-    $("#paragraf").toggle();
+    $("#btnHide").click(function () {
+        $("#paragraf").hide();
+    })
+
+    $("#btnShow").click(function () {
+        $("#paragraf").show();
+    })
+
+    $("#btnFadeIn").click(function () {
+        $("#paragraf").hide();
+        $("#paragraf").fadeIn(1000);
+    })
+
+    $("#btnToggle").click(function () {
+        $("#paragraf").toggle();
+    })
+
+    $("#btnText").click(function () {
+        var text = $("#paragraf").text();
+        $("#resultat").text(text);
+    })
+
+    $("#btnVal").click(function (){
+        var val = $("#inputText").val();
+        $("#resultat").text(val);
+    })
+
+    $("#btnAttr").click(function (){
+        var attr = $("#link").attr("href");
+        $("#resultat").text(attr);
+    })
+
+
+
 
 })
